@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "acm-simplified"
+  "defaultProject": "acm-simplified",
+  "cli": {
+    "analytics": "40c02942-72a3-4211-b47f-3269b79b278c"
+  }
 }
